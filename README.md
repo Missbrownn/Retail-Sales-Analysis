@@ -14,9 +14,9 @@
 - Customer segmentation and insights
 
 ## Insights
-- Top products generate most revenue
-- High-value customers identified for marketing
-- Revenue trends show seasonal patterns
+- Top 10 products generate most revenue
+- High-value customers are identified to aid marketing
+- Revenue trends show seasonal patterns. Which month generates the most revenue
 
 ## Instructions
 1. Clone the repository
